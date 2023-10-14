@@ -1,7 +1,7 @@
 ### Hi there 👋
 Front End
 
-Back End
+Back End <br>
 <img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=white"/>
 <!--
 **OHTARU/OHTARU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
