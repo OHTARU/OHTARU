@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://github.com/OHTARU" target="_blank"><img src="https://img.shields.io/badge/#FFFFFF?style=flat&logo=github&logoColor=#181717"/></a>
 <!--
 **OHTARU/OHTARU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
