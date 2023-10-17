@@ -5,6 +5,9 @@
 ### Tools✌️ <br>
 <img src="https://img.shields.io/badge/VScode-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
 
+#### Blog <br>
+Velog : https://velog.io/@ohtaru
+
 ![OHTARU's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHTARU&show_icons=true&theme=radical)
 <!--
 **OHTARU/OHTARU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
